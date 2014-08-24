@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerDotOrg", "HackerDotOrg\HackerDotOrg.csproj", "{0A4FC814-11A3-48BB-896A-DA4756EFD8FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3280_CSharp", "3280_CSharp\3280_CSharp.csproj", "{A16CB2C5-7784-49A6-A481-A4F467579832}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A4FC814-11A3-48BB-896A-DA4756EFD8FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A4FC814-11A3-48BB-896A-DA4756EFD8FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A4FC814-11A3-48BB-896A-DA4756EFD8FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A4FC814-11A3-48BB-896A-DA4756EFD8FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A16CB2C5-7784-49A6-A481-A4F467579832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A16CB2C5-7784-49A6-A481-A4F467579832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A16CB2C5-7784-49A6-A481-A4F467579832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A16CB2C5-7784-49A6-A481-A4F467579832}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
